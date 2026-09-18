@@ -1,32 +1,7 @@
-# Hi, I'm Abdurakhim 👋
+<h1 align="center">Hi 👋, I'm Abdurakhim Tursunboev</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Java Backend Developer
-
-I build backend applications using Java and Spring Boot,
-with a focus on clean architecture, database design and
-business-oriented backend solutions.
-
-### 🛠 Tech Stack
-
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- PostgreSQL
-- REST API
-- Kafka
-- Docker
-- Git
-
-### 💼 Experience
-
-- Backend development for industrial systems
-- Financial/fintech backend development
-- REST API development
-- Database modeling and optimization
-- Third-party API integrations
-
-### 🌐 Connect
-
-- Portfolio: abduraxim.uz
-- LinkedIn
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
