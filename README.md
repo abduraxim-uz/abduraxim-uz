@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Abdurakhim 👋
 
-<!--
-**abduraxim-uz/abduraxim-uz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer
 
-Here are some ideas to get you started:
+I build backend applications using Java and Spring Boot,
+with a focus on clean architecture, database design and
+business-oriented backend solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- PostgreSQL
+- REST API
+- Kafka
+- Docker
+- Git
+
+### 💼 Experience
+
+- Backend development for industrial systems
+- Financial/fintech backend development
+- REST API development
+- Database modeling and optimization
+- Third-party API integrations
+
+### 🌐 Connect
+
+- Portfolio: abduraxim.uz
+- LinkedIn
